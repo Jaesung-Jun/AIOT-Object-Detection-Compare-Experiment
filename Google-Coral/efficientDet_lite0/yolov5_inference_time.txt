@@ -1,0 +1,3 @@
+2022-05-09 07:21:29 PM
+Inference time : 0.5737543106079102
+Frame Per Second(fps) : 0.5737543106079102

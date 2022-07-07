@@ -1,0 +1,10 @@
+python3 yolov5_test_inference_time.py --start_index 0 --end_index 500
+python3 yolov5_test_inference_time.py --start_index 500 --end_index 1000
+python3 yolov5_test_inference_time.py --start_index 1000 --end_index 1500
+python3 yolov5_test_inference_time.py --start_index 1500 --end_index 2000
+python3 yolov5_test_inference_time.py --start_index 2000 --end_index 2500
+python3 yolov5_test_inference_time.py --start_index 2500 --end_index 3000
+python3 yolov5_test_inference_time.py --start_index 3000 --end_index 3500
+python3 yolov5_test_inference_time.py --start_index 3500 --end_index 4000
+python3 yolov5_test_inference_time.py --start_index 4000 --end_index 4500
+python3 yolov5_test_inference_time.py --start_index 4500 --end_index 5000

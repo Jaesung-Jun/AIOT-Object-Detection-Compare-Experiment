@@ -1,0 +1,71 @@
+2022-05-09 04:25:30 PM [start_index : 0, end_index :499]
+Inference time : 446.36388087272644
+Frame Per Second(fps) : 0.8927277617454529
+2022-05-09 04:27:06 PM [start_index : 0, end_index :0]
+Inference time : 0.9056148529052734
+Frame Per Second(fps) : 0.9056148529052734
+2022-05-09 04:27:07 PM [start_index : 0, end_index :0]
+Inference time : 0.8931722640991211
+Frame Per Second(fps) : 0.8931722640991211
+2022-05-09 04:27:08 PM [start_index : 0, end_index :0]
+Inference time : 0.8909721374511719
+Frame Per Second(fps) : 0.8909721374511719
+2022-05-09 04:27:09 PM [start_index : 0, end_index :0]
+Inference time : 0.8912985324859619
+Frame Per Second(fps) : 0.8912985324859619
+2022-05-09 04:27:10 PM [start_index : 0, end_index :0]
+Inference time : 0.8951334953308105
+Frame Per Second(fps) : 0.8951334953308105
+2022-05-09 04:27:11 PM [start_index : 0, end_index :0]
+Inference time : 0.8949446678161621
+Frame Per Second(fps) : 0.8949446678161621
+2022-05-09 04:27:12 PM [start_index : 0, end_index :0]
+Inference time : 0.8917984962463379
+Frame Per Second(fps) : 0.8917984962463379
+2022-05-09 04:27:13 PM [start_index : 0, end_index :0]
+Inference time : 0.8933267593383789
+Frame Per Second(fps) : 0.8933267593383789
+2022-05-09 04:27:14 PM [start_index : 0, end_index :0]
+Inference time : 0.886509895324707
+Frame Per Second(fps) : 0.886509895324707
+2022-05-09 04:27:15 PM [start_index : 0, end_index :0]
+Inference time : 0.8940155506134033
+Frame Per Second(fps) : 0.8940155506134033
+2022-05-09 04:36:39 PM [start_index : 0, end_index :499]
+Inference time : 446.2259738445282
+Frame Per Second(fps) : 0.8924519476890564
+2022-05-09 04:39:14 PM [start_index : 0, end_index :4]
+Inference time : 4.478641510009766
+Frame Per Second(fps) : 0.8957283020019531
+2022-05-09 04:39:19 PM [start_index : 0, end_index :4]
+Inference time : 4.462982416152954
+Frame Per Second(fps) : 0.8925964832305908
+
+
+2022-05-09 04:50:54 PM [start_index : 0, end_index :599]
+Inference time : 578.0664155483246
+Frame Per Second(fps) : 0.9634440259138743
+2022-05-09 05:03:23 PM [start_index : 600, end_index :1199]
+Inference time : 571.4741888046265
+Frame Per Second(fps) : 0.9524569813410441
+2022-05-09 05:14:18 PM [start_index : 1200, end_index :1799]
+Inference time : 599.5044264793396
+Frame Per Second(fps) : 0.9991740441322327
+2022-05-09 05:31:53 PM [start_index : 1800, end_index :2399]
+Inference time : 896.7453391551971
+Frame Per Second(fps) : 1.4945755652586619
+2022-05-09 05:43:25 PM [start_index : 2400, end_index :2999]
+Inference time : 577.8459320068359
+Frame Per Second(fps) : 0.9630765533447265
+2022-05-09 06:09:34 PM [start_index : 3000, end_index :3599]
+Inference time : 606.4493799209595
+Frame Per Second(fps) : 1.0107489665349325
+2022-05-09 06:23:46 PM [start_index : 3600, end_index :4199]
+Inference time : 598.906941652298
+Frame Per Second(fps) : 0.9981782360871633
+2022-05-09 06:40:22 PM [start_index : 4200, end_index :4799]
+Inference time : 585.4206922054291
+Frame Per Second(fps) : 0.9757011536757151
+2022-05-09 06:57:30 PM [start_index : 4800, end_index :4999]
+Inference time : 178.7852919101715
+Frame Per Second(fps) : 0.8939264595508576
